@@ -1,0 +1,6 @@
+[submodule "LIBERO"]
+	path = LIBERO
+	url = https://github.com/nakamotoo/LIBERO.git
+[submodule "openpi"]
+	path = openpi
+	url = https://github.com/nakamotoo/openpi.git
